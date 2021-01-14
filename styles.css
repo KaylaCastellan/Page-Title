@@ -1,0 +1,31 @@
+img{
+    width: 290px;
+}
+
+.first-line{
+    text-align:center;
+}
+
+h2{
+    text-align:center;
+}
+h1{
+    color:#FF33E0;
+}
+H2{
+    color:#b0faf1;
+}
+
+ul{
+    background-color:white;
+}
+
+p{
+    background-color:white;
+}
+
+body {
+    background-image: url("https://martztrailways.com/wp-content/uploads/2017/05/city.jpg");
+}
+
+
